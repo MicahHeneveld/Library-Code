@@ -1,0 +1,35 @@
+Long Shot has been added.
+	Inserted Long Shot at location 0
+	Inserted Paul Chris at location 0
+	Inserted Basketball at location 0
+
+Pyramid of Success has been added.
+	Inserted Pyramid of Success at location 1
+	Inserted Carty Jay at location 0
+	Inserted Basketball at location 1
+
+Star Wars Tarkin has been added.
+	Inserted Star Wars Tarkin at location 2
+	Inserted Luceno James at location 1
+	Inserted Science Fiction at location 1
+
+The Art of War has been added.
+	Inserted The Art of War at location 3
+	Inserted Tzu Sun at location 3
+	Inserted War at location 2
+
+The Fall of Constantinople, 1453 has been added.
+	Inserted The Fall of Constantinople, 1453 at location 4
+	Inserted Runciman at location 3
+	Inserted History at location 1
+
+The Jungle Book has been added.
+	Inserted The Jungle Book at location 5
+	Inserted Kipling Rudyard at location 1
+	Inserted Fiction at location 1
+
+
+Printed to console by subject.
+
+
+User exited program, books saved successfully.
